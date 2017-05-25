@@ -1,0 +1,6 @@
+6) 
+The method is: getBatteryPercentage()
+Is made redundant because some of the new sensors are not battery powered.
+
+The SOLID principle which breaks is:
+The Interface-Segregation Principle is broken because the method getBatteryPercentage() should not be forced onto sensors that do not need it. "Clients should not be forced to depend upon methods that they do not use" in this case having sensors use a method to get the battery percentage when they have no battery.

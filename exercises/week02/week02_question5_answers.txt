@@ -1,0 +1,10 @@
+5) 
+The new responsibilities of pollSensors() method are:
+
+It now just loops through the collection/list of the sensors and checks each one using a for loop.
+Therefore it now just does one thing and that is loops throught the sensors checking if they are triggered.
+
+Each sensor in the list is then checked if that sensor has been triggered via calling the isTriggered method on that sensor.
+
+If it is triggered, the system prints out a message included the sensor type which it gets via the method getSensorType and it gets the location of which that sensor was triggered. Prints on a single line.
+However if the sensor was not triggered, it prints a message saying that sensor was polled, gets the sensor type and location adn displays the message on a single line.
