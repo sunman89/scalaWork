@@ -1,0 +1,150 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Sonny\Documents\sunman89\exercises\week04\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> C:\Users\Sonny\Documents\sunman89\exercises\week04\target\scala-2.12\classes\functions\Funcs$.class
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> C:\Users\Sonny\Documents\sunman89\exercises\week04\target\scala-2.12\classes\functions\Funcs.class
+binary dependencies:
+2 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> C:\Program Files\Java\jre1.8.0_121\lib\rt.jar
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> functions.Funcs
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> functions.Funcs$
+used names:
+71 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> *
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> +
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> ++
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> -
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> /
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> ::
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> :::
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> <init>
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> <repeated>
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> ==
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> >
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> A
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Any
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> AnyRef
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> B
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Boolean
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> CanBuildFrom
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Coll
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Double
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Funcs
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Function1
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Function2
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> GenTraversableOnce
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> IllegalArgumentException
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Int
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> List
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> MatchError
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Math
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Nil
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Nothing
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Object
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> T0
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> That
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> Tuple2
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> _1
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> _2
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> _root_
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> a
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> apply
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> asInstanceOf
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> canBuildFrom
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> collection
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> drop
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> f
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> filter
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> flatMap
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> flatten
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> foldLeft
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> functions
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> head
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> immutable
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> init
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> isInstanceOf
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> java
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> lang
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> length
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> ls
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> map
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> math
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> mean
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> n
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> numbers
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> package
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> pow
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> scala
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> size
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> sum
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> tail
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> total
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> v
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> z
+product stamps:
+2 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\target\scala-2.12\classes\functions\Funcs$.class -> lastModified(1495830221086)
+C:\Users\Sonny\Documents\sunman89\exercises\week04\target\scala-2.12\classes\functions\Funcs.class -> lastModified(1495830221070)
+source stamps:
+1 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> hash(8f18ec8988d95f075968e89ad727c3115b4c97a1)
+binary stamps:
+2 items
+C:\Program Files\Java\jre1.8.0_121\lib\rt.jar -> lastModified(1489005740980)
+C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> lastModified(1480936165000)
+class names:
+2 items
+C:\Program Files\Java\jre1.8.0_121\lib\rt.jar -> java.lang.Object
+C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar -> scala.collection.immutable.$colon$colon
+internal apis:
+1 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwPACqeQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbX9ncnQABm5vdGlmeXNxAH4ADAdById0AAdmbGF0dGVuc3EAfgAMIYkK5nQABHdhaXRzcQB+AAwlEhKUdAANJGFzSW5zdGFuY2VPZnNxAH4ADKXJg7J0AAptYXhBdmVyYWdlc3EAfgAM//UoQHQACHZhcmlhbmNlc3EAfgAM3gHK83QAA21hcHNxAH4ADEyWl0l0AAZlcXVhbHNzcQB+AAyd/WPfdAAMYXNJbnN0YW5jZU9mc3EAfgAM7BrZVXQADHN5bmNocm9uaXplZHNxAH4ADH/nUU90AA0kaXNJbnN0YW5jZU9mc3EAfgAM2OPOunQABHRhaWxzcQB+AAz12tV6dAAJbm90aWZ5QWxsc3EAfgAMuVx3E3QABGRyb3BzcQB+AAyMNBNzdAAMaXNJbnN0YW5jZU9mc3EAfgAMfOZv0XQAB3JldmVyc2VzcQB+AAyodYLEdAAGZmlsdGVyc3EAfgAMQbDvSnQAB2ZsYXRNYXBzcQB+AAz1fUDMdAACPT1zcQB+AAzC/G4OdAAFY2xvbmVzcQB+AAwvv7EcdAAIdG9TdHJpbmdzcQB+AAzH54g4dAAGbGVuZ3Roc3EAfgAMTGLdfHQAAiE9c3EAfgAMC/LjzXQABUZ1bmNzc3EAfgAMQusGXnQACGdldENsYXNzc3EAfgAMyeDEHXQACGZvbGRMZWZ0c3EAfgAMLmeWZ3QAAm5lc3EAfgAM5MNLanQABGluaXRzcQB+AAzuG9WAdAACZXFzcQB+AAzOMRdcdAADc3Vtc3EAfgAMQHer33QAAiMjc3EAfgAMsDBQqXQACGZpbmFsaXplc3EAfgAMlgvu3XQACGhhc2hDb2Rlc3EAfgAM8PKO23QAB3Byb2R1Y3RzcQB+AAwQB6DSdAAHc2V0SGVhZHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA9mdW5jdGlvbnMuRnVuY3N1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB6c3EAfgB1dXEAfgBYAAAAAHNxAH4AdXVxAH4AWAAAAABzcQB+AHV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHl0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJJ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AIZ0AANBbnlzcQB+AIpzcQB+AI11cQB+AJAAAAACc3EAfgCSdAAFc2NhbGFxAH4AmXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACWZ1bmN0aW9uc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXEZtWyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABMQzpcVXNlcnNcU29ubnlcRG9jdW1lbnRzXHN1bm1hbjg5XGV4ZXJjaXNlc1x3ZWVrMDRcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI8Y7ImI2V8HWWjomtcnwxFbTJeh
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Sonny\Documents\sunman89\exercises\week04\src\main\scala\functions\functions.scala -> 
+AAAAAQAAAQAAAG0AQyAgICBjYXNlIChoZWFkOiBMaXN0W0FdKSA6OiB0YWlsID0+IGZsYXR0ZW4oaGVhZCkgOjo6IGZsYXR0ZW4odGFpbCkBAAAO2QEAAAAQAQAQICAgICAgICAgICAgICAgIAEAW0M6XFVzZXJzXFNvbm55XERvY3VtZW50c1xzdW5tYW44OVxleGVyY2lzZXNcd2VlazA0XHNyY1xtYWluXHNjYWxhXGZ1bmN0aW9uc1xmdW5jdGlvbnMuc2NhbGEBAFtDOlxVc2Vyc1xTb25ueVxEb2N1bWVudHNcc3VubWFuODlcZXhlcmNpc2VzXHdlZWswNFxzcmNcbWFpblxzY2FsYVxmdW5jdGlvbnNcZnVuY3Rpb25zLnNjYWxhAHJhYnN0cmFjdCB0eXBlIEEgaW4gdHlwZSBwYXR0ZXJuIExpc3RbQV0gKHRoZSB1bmRlcmx5aW5nIG9mIExpc3RbQV0pIGlzIHVuY2hlY2tlZCBzaW5jZSBpdCBpcyBlbGltaW5hdGVkIGJ5IGVyYXN1cmUBAAAAAA==
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXEVZbWt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXFNvbm55XERvY3VtZW50c1xzdW5tYW44OVxleGVyY2lzZXNcd2VlazA0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABXEZtWyR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXFNvbm55XERvY3VtZW50c1xzdW5tYW44OVxleGVyY2lzZXNcd2VlazA0XHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
