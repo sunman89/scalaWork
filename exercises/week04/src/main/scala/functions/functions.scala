@@ -91,7 +91,7 @@ object Funcs {
     * List(4,5,6))) produces List(1,2,3,4,5,6).
     */
 
-  def sum(ls: List[Double]): Double = foldLeft(ls,0.0)((z , a) => z + a)
+  def sum(ls: List[Double]): Double = foldLeft(ls, 0.0) (_ + _)
 
   def product(ls: List[Double]): Double = ls match {
     case Nil => 1
