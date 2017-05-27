@@ -1,0 +1,3 @@
+When opening again in Scala at a later date, it had a message saying sdk not specified and jdk not specified.
+
+After i fixed those errors, it would not run, it was displaying an error about no output path or something similiar. And recommended I split the output.

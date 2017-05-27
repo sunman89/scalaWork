@@ -1,4 +1,4 @@
-class SmokeSensor extends Sensor with battery{
+class SmokeSensor extends Sensor with Battery{
   var battery : Int = 100
   override def isTriggered: Boolean = {
     if(battery > 0) battery -= 20 else battery = 0

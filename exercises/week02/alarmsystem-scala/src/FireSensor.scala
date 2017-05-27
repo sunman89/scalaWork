@@ -1,4 +1,4 @@
-class FireSensor extends Sensor with battery {
+class FireSensor extends Sensor with Battery {
   var battery : Int = 100
   override def isTriggered: Boolean = {
     if(battery > 0) battery -= 10 else battery = 0

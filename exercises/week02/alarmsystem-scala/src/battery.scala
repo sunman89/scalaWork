@@ -1,3 +1,3 @@
-trait battery {
+trait Battery {
   def getBatteryPercentage: Double
 }
