@@ -1,77 +1,75 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to C:\Users\Sonny\Documents\sunman89\exercises\week05\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala, C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to C:\Users\Sonny\Documents\sunman89\exercises\week05\target\scala-2.12\classes...[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
 [0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.15:component from component compiler for Scala 2.12.1[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 1a7f1dd, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 15055a4, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre1.8.0_121\lib\resources.jar;C:\Program Files\Java\jre1.8.0_121\lib\rt.jar;C:\Program Files\Java\jre1.8.0_121\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_121\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_121\lib\jce.jar;C:\Program Files\Java\jre1.8.0_121\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_121\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_121\classes;C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	C:\Users\Sonny\Documents\sunman89\exercises\week05\target\scala-2.12\classes;C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-compiler\jars\scala-compiler-2.12.1.jar;C:\Users\Sonny\.ivy2\cache\org.scala-lang\scala-reflect\jars\scala-reflect-2.12.1.jar;C:\Users\Sonny\.ivy2\cache\org.scala-lang.modules\scala-xml_2.12\bundles\scala-xml_2.12-1.0.6.jar;C:\Users\Sonny\.ivy2\cache\org.scalactic\scalactic_2.12\bundles\scalactic_2.12-3.0.1.jar[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:4: not found: type Director[0m
-[0m[[31merror[0m] [0m  val eastwood = new Director("Clint", "Eastwood", 1930)[0m
-[0m[[31merror[0m] [0m                     ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:5: not found: type Director[0m
-[0m[[31merror[0m] [0m  val mcTiernan = new Director("John", "McTiernan", 1951)[0m
-[0m[[31merror[0m] [0m                      ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:6: not found: type Director[0m
-[0m[[31merror[0m] [0m  val nolan = new Director("Christopher", "Nolan", 1970)[0m
-[0m[[31merror[0m] [0m                  ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:7: not found: type Director[0m
-[0m[[31merror[0m] [0m  val someGuy = new Director("Just", "Some Guy", 1990)[0m
-[0m[[31merror[0m] [0m                    ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:9: not found: type Film[0m
-[0m[[31merror[0m] [0m  val memento = new Film("Memento", 2000, 8.5, nolan)[0m
-[0m[[31merror[0m] [0m                    ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:10: not found: type Film[0m
-[0m[[31merror[0m] [0m  val darkKnight = new Film("Dark Knight", 2008, 9.0, nolan)[0m
-[0m[[31merror[0m] [0m                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:11: not found: type Film[0m
-[0m[[31merror[0m] [0m  val inception = new Film("Inception", 2010, 8.8, nolan)[0m
-[0m[[31merror[0m] [0m                      ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:13: not found: type Film[0m
-[0m[[31merror[0m] [0m  val highPlainsDrifter = new Film("High Plains Drifter", 1973, 7.7, eastwood)[0m
-[0m[[31merror[0m] [0m                              ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:14: not found: type Film[0m
-[0m[[31merror[0m] [0m  val outlawJoseyWales = new Film("The Outlaw Josey Wales", 1976, 7.9, eastwood)[0m
-[0m[[31merror[0m] [0m                             ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:15: not found: type Film[0m
-[0m[[31merror[0m] [0m  val unforgiven = new Film("Unforgiven", 1992, 8.3, eastwood)[0m
-[0m[[31merror[0m] [0m                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:16: not found: type Film[0m
-[0m[[31merror[0m] [0m  val granTorino = new Film("Gran Torino", 2008, 8.2, eastwood)[0m
-[0m[[31merror[0m] [0m                       ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:17: not found: type Film[0m
-[0m[[31merror[0m] [0m  val invictus = new Film("Invictus", 2009, 7.4, eastwood)[0m
-[0m[[31merror[0m] [0m                     ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:19: not found: type Film[0m
-[0m[[31merror[0m] [0m  val predator = new Film("Predator", 1987, 7.9, mcTiernan)[0m
-[0m[[31merror[0m] [0m                     ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:20: not found: type Film[0m
-[0m[[31merror[0m] [0m  val dieHard = new Film("Die Hard", 1988, 8.3, mcTiernan)[0m
-[0m[[31merror[0m] [0m                    ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:21: not found: type Film[0m
-[0m[[31merror[0m] [0m  val huntForRedOctober = new Film("The Hunt for Red October", 1990, 7.6, mcTiernan)[0m
-[0m[[31merror[0m] [0m                              ^[0m
-[0m[[31merror[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:22: not found: type Film[0m
-[0m[[31merror[0m] [0m  val thomasCrownAffair = new Film("The Thomas Crown Affair", 1999, 6.8, mcTiernan)[0m
-[0m[[31merror[0m] [0m                              ^[0m
-[0m[[31merror[0m] [0m16 errors found[0m
-[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
-[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
+[0m[[33mwarn[0m] [0mC:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala:24: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses[0m
+[0m[[33mwarn[0m] [0m  eastwood.yearOfBirth // should be 1930[0m
+[0m[[33mwarn[0m] [0m           ^[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.840868268 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	nolan, notify, huntForRedOctober, dieHard, someGuy, wait, $asInstanceOf, equals, asInstanceOf, executionStart, synchronized, eastwood, $isInstanceOf, main, notifyAll, unforgiven, isInstanceOf, outlawJoseyWales, inception, ==, clone, highPlainsDrifter, $init$, toString, args, !=, FilmTest, getClass, predator, thomasCrownAffair, darkKnight, ne, mcTiernan, memento, eq, delayedInit, ##, finalize, hashCode, granTorino, invictus.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, name, wait, copy$default$2, $asInstanceOf, productArity, equals, highestRating, asInstanceOf, yearOfRelease, synchronized, $isInstanceOf, Film, canEqual, isDirectedBy, copy$default$4, productPrefix, notifyAll, isInstanceOf, <init>, oldestDirectorAtTheTime, apply, ==, clone, director, $init$, copy$default$3, copy, toString, directorsAge, !=, imdbRating, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala: Set(name, Film, isDirectedBy, <init>, director)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Counter.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, dec$default$1, count, wait, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, adjust, <init>, ==, clone, inc$default$1, $init$, inc, copy, toString, !=, getClass, copy$default$1, Counter, dec, ne, add, eq, productIterator, ##, finalize, productElement, hashCode, Adder.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Director.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, name, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, yearOfBirth, synchronized, $isInstanceOf, canEqual, productPrefix, notifyAll, isInstanceOf, Director, lastName, firstName, <init>, older, apply, ==, clone, $init$, copy$default$3, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\FilmTest.scala: Set(name, yearOfBirth, Director, <init>)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Film.scala: Set(name, asInstanceOf, yearOfBirth, isInstanceOf, Director, <init>, ==, toString, eq)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Sonny\Documents\sunman89\exercises\week05\src\main\scala\scala-exercises\films\Person.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, wait, copy$default$2, $asInstanceOf, productArity, equals, asInstanceOf, synchronized, $isInstanceOf, canEqual, productPrefix, last, notifyAll, isInstanceOf, <init>, Person, apply, ==, clone, $init$, first, copy, toString, !=, getClass, copy$default$1, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

@@ -1,0 +1,6 @@
+Week 05 = Question 2.(b)
+
+What happens when we define a companion object for a case class?
+It becomes a singleton instance/object. Allowing us to set a constructor only one time.
+And allows us to use factory methods and pattern matching.
+It works like static methods and fields in Java by allowing us to access fields without instantiasing the class.

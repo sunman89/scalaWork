@@ -1,0 +1,5 @@
+Week 05 = Question 3.(c)
+
+Code we can remove?
+
+We can remove the copy and the apply method in film.scala and we can remove the apply method from director.scala
