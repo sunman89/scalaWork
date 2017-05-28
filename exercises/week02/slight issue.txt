@@ -1,3 +1,5 @@
 When opening again in Scala at a later date, it had a message saying sdk not specified and jdk not specified.
 
 After i fixed those errors, it would not run, it was displaying an error about no output path or something similiar. And recommended I split the output.
+
+Plus also changed the file battery.scala to Battery.scala and changed the files that used that trait to have the proper naming of the files. However when i pushed it up, the file name has not changed. The trait name has changed and the other files that use that trait, but the actual file name itself has not changed on my repo, even after pushing my files up again.
