@@ -1,0 +1,14 @@
+Question 11
+a) What is the Composite Pattern?
+
+A pattern that creates a class which contains a group of its own objects and ways to interact and modify those objects.
+
+
+b) Under what conditions would you use a Composite Design Pattern?
+
+You would use a composite pattern when you need to treat a group of objects in a similiar way to a single object.
+
+
+c) What are the four participants of the Composite Design Pattern?
+
+Clents, tree structure, composite objects and the component.

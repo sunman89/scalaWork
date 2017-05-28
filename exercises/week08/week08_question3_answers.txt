@@ -1,0 +1,7 @@
+Question 3
+When is it appropriate to use the Abstract Factory Design pattern?
+
+
+
+When creating an abstract factory for multiple concrete factories, Which will inherit the necessary information from the abstract factory. 
+It is appropriate to do this when designing concrete factories that are very similiar but have a slight difference, so will need to contain pretty much all the same data/information except maybe a few fields or methods. Therefore you would need an abstract factory that contains the information that is shared between the concrete factories.

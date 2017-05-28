@@ -1,0 +1,12 @@
+Questions 1
+A) Briefly describe the Strategy Design Pattern?
+
+It defines a family of algorithms and then encapsulates each one which makes them interchangable and allows the algorithm to vary depending on factors such as different users or same task but in a different way.
+
+
+Gotten from www.sourcemaking.com/design_patterns/strategy
+
+
+B) When is it appropriate to use the Strategy Design Pattern?
+
+When needing to perform the same task but in different ways or by different clients (users). 

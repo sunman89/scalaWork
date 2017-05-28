@@ -1,0 +1,4 @@
+Question 9
+When should one make use of the Bridge Design Pattern?
+
+The Bridge Design pattern should be used when an abstraction has to be decoupled from its implementation so that it can be split into two and both allowed to be used without the other.

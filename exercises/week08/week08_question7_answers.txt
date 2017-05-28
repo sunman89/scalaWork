@@ -1,0 +1,10 @@
+Question 7
+a) What is the Facade pattern?
+
+The facade pattern is a pattern that hides the complexities of the system and provides an interface to the client. This should allow the client to access the system by adding an interface to an existing system.
+
+
+b) When, and why, would you use the Facade pattern?
+
+You would use this pattern when having an existing system with complex code which would confuse the client/user. 
+You would use it because it stops the user from being confused looking at code, and provides an interface for the user/client to interact with instead.
